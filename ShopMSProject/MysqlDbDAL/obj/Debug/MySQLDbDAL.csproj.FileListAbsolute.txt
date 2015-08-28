@@ -1,0 +1,4 @@
+E:\project\Git\ShopMS\ShopMSProject\MysqlDbDAL\bin\Debug\MysqlDbDAL.dll
+E:\project\Git\ShopMS\ShopMSProject\MysqlDbDAL\bin\Debug\MysqlDbDAL.pdb
+E:\project\Git\ShopMS\ShopMSProject\MysqlDbDAL\obj\Debug\MysqlDbDAL.dll
+E:\project\Git\ShopMS\ShopMSProject\MysqlDbDAL\obj\Debug\MysqlDbDAL.pdb

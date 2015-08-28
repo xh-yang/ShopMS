@@ -1,0 +1,5 @@
+E:\project\Git\ShopMS\ShopMSProject\DALFactory\bin\Debug\DALFactory.dll.config
+E:\project\Git\ShopMS\ShopMSProject\DALFactory\bin\Debug\DALFactory.dll
+E:\project\Git\ShopMS\ShopMSProject\DALFactory\bin\Debug\DALFactory.pdb
+E:\project\Git\ShopMS\ShopMSProject\DALFactory\obj\Debug\DALFactory.dll
+E:\project\Git\ShopMS\ShopMSProject\DALFactory\obj\Debug\DALFactory.pdb

@@ -1,0 +1,4 @@
+E:\project\Git\ShopMS\ShopMSProject\IDAL\bin\Debug\IDAL.dll
+E:\project\Git\ShopMS\ShopMSProject\IDAL\bin\Debug\IDAL.pdb
+E:\project\Git\ShopMS\ShopMSProject\IDAL\obj\Debug\IDAL.dll
+E:\project\Git\ShopMS\ShopMSProject\IDAL\obj\Debug\IDAL.pdb

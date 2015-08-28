@@ -1,0 +1,13 @@
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\bin\Debug\UI_ShopMS.exe
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\bin\Debug\UI_ShopMS.pdb
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\BaseForm.baml
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\Main.baml
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\BaseForm.g.cs
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\Main.g.cs
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\App.g.cs
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\UI_ShopMS_MarkupCompile.cache
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\UI_ShopMS.g.resources
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\UI_ShopMS.Properties.Resources.resources
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\UI_ShopMS.csproj.GenerateResource.Cache
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\UI_ShopMS.exe
+E:\project\Git\ShopMS\ShopMSProject\UI_ShopMS\obj\x86\Debug\UI_ShopMS.pdb

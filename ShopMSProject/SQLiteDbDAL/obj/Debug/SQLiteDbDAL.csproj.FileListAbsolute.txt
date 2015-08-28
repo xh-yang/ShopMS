@@ -1,0 +1,4 @@
+E:\project\Git\ShopMS\ShopMSProject\SQLiteDbDAL\bin\Debug\SQLiteDbDAL.dll
+E:\project\Git\ShopMS\ShopMSProject\SQLiteDbDAL\bin\Debug\SQLiteDbDAL.pdb
+E:\project\Git\ShopMS\ShopMSProject\SQLiteDbDAL\obj\Debug\SQLiteDbDAL.dll
+E:\project\Git\ShopMS\ShopMSProject\SQLiteDbDAL\obj\Debug\SQLiteDbDAL.pdb

@@ -1,0 +1,4 @@
+E:\project\Git\ShopMS\ShopMSProject\BLL\bin\Debug\BLL.dll
+E:\project\Git\ShopMS\ShopMSProject\BLL\bin\Debug\BLL.pdb
+E:\project\Git\ShopMS\ShopMSProject\BLL\obj\Debug\BLL.dll
+E:\project\Git\ShopMS\ShopMSProject\BLL\obj\Debug\BLL.pdb

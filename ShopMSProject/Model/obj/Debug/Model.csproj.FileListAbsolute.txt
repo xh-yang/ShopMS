@@ -1,0 +1,4 @@
+E:\project\Git\ShopMS\ShopMSProject\Model\bin\Debug\Model.dll
+E:\project\Git\ShopMS\ShopMSProject\Model\bin\Debug\Model.pdb
+E:\project\Git\ShopMS\ShopMSProject\Model\obj\Debug\Model.dll
+E:\project\Git\ShopMS\ShopMSProject\Model\obj\Debug\Model.pdb

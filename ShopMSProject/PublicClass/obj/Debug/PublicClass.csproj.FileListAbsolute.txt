@@ -1,0 +1,4 @@
+E:\project\Git\ShopMS\ShopMSProject\PublicClass\bin\Debug\PublicClass.dll
+E:\project\Git\ShopMS\ShopMSProject\PublicClass\bin\Debug\PublicClass.pdb
+E:\project\Git\ShopMS\ShopMSProject\PublicClass\obj\Debug\PublicClass.dll
+E:\project\Git\ShopMS\ShopMSProject\PublicClass\obj\Debug\PublicClass.pdb
