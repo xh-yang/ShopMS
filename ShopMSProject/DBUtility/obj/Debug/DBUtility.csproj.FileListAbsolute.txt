@@ -1,0 +1,5 @@
+E:\project\Git\ShopMS\ShopMSProject\DBUtility\bin\Debug\DBUtility.dll
+E:\project\Git\ShopMS\ShopMSProject\DBUtility\bin\Debug\DBUtility.pdb
+E:\project\Git\ShopMS\ShopMSProject\DBUtility\bin\Debug\MySql.Data.dll
+E:\project\Git\ShopMS\ShopMSProject\DBUtility\obj\Debug\DBUtility.dll
+E:\project\Git\ShopMS\ShopMSProject\DBUtility\obj\Debug\DBUtility.pdb
